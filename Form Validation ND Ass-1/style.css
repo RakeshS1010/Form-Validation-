@@ -1,0 +1,67 @@
+body > table {
+    width: 60%;
+    border-collapse: collapse;
+    text-align: center;
+    
+    
+}
+
+input[type=text], input[type=number]{
+    width: 100%;
+    padding: 10px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+
+}
+input {
+    font-size: 15px;
+    
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+     border-collapse: collapse;
+    color: black;
+}
+
+#button{
+    align-content: center;
+    width:150px;
+    height: 40px;
+    color: black;
+    font-size: 23px;
+    font-family: "Comic Sans MS",cursive,sans-serif;
+    
+}
+
+
+table {
+    border-collapse: collapse;
+    width: 80%;
+    margin:50px auto;
+    background-color: white;
+    border:2px solid black;
+    padding:5px;
+}
+h1 {
+    text-align: center;
+}
+th {
+    border-collapse: collapse;
+    font-size: 20px;
+    font-family:Arial;
+    text-align: center;
+    
+
+}
+td {
+    font-size: 15px;
+    color:crimson;
+    font-weight: 400;
+    font-family: Georgia;
+}
